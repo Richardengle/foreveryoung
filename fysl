@@ -1,0 +1,221 @@
+
+<html>
+<head>
+<style>
+  .res:hover{
+    width: 800px;
+    height: 1000px;
+ overflow:auto;   
+}
+  
+img {
+  border-radius: 50%;
+}
+  html {
+  font-size: 25px;
+}
+  
+  div
+{
+//  font-family: "Courier New", monospace;
+  white-space: pre;
+}
+  
+  
+  p {
+  width: 75%;
+  //border: 1px solid black;  
+}
+  
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+  
+  body {
+    background-color: #f4f4f4;
+}
+  
+</style>
+</head>
+<body>
+<h2 align="right">For affordable and caring senior living, call us today at <br>
+  <u>313-454-6835</u>  
+  </h2>
+<table align="center">
+<tr>
+  <td>
+  <img src="https://d2ngl0nkh8z0ib.cloudfront.net/dragonfly-uploads/2018/12/19/18/58/31/8d92a4e5-f810-4ffc-969d-600cdc2613b2/Elderly_20woman_20laughing_20with_20her_20nurse_20-_201400_20x_20530.jpg" alt="Top Image 2 ppl" width="400" height="150" >
+  </td>
+  <td>
+<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/161751438_110711417764184_8021335104648659647_n.png?_nc_cat=103&ccb=1-3&_nc_sid=e3f864&_nc_ohc=ou1SJ0lhtIAAX_GrNxf&_nc_ht=scontent-ort2-1.xx&oh=7630043a2636d74121e09a8f414006ca&oe=60A5C652" alt="logo" width="300" height="300" >
+  </td>
+
+    <td>
+<img src="https://mk0nationaltodayijln.kinstacdn.com/wp-content/uploads/2019/08/national-senior-citizens-day-1200x834.jpg" width="200" height="200" >
+  </td>
+
+  
+  </tr>
+  </table>
+  
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#Services">Services</a></li>
+  <li><a href="#About">About</a></li>
+  <li><a href="#Careers">Careers</a></li>
+  <li><a href="#Locations">Locations</a></li>
+</ul>
+
+  <h2 id="About"></h2>
+   
+  
+     Whether you desire care in the heart of the city, or in the rolling hills of West Bloomfield, Forever Young Senior Living offers an affordable and warm living environment with just the right supportive care available when needed. <br>
+
+We strive to enhance your experience with special attention to customizing our support around your lifestyle. Our mission is to provide loving support in a world-class retirement community. We know you will love the engaging warmth at Forever Young.<br>
+  
+  Assisted living is for older adults who value their independence, but need some assistance with daily activities such as bathing, dressing, transportation and medication reminders. Seniors may live in their own suites or with a companion and are relieved of household chores such as laundry, cooking, and cleaning.
+ 
+<br>
+  <br>
+  <br>
+  <b>
+   <table align="center">
+<tr>
+  <td>
+<img src="https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=pRSuEZ0OyMRDaXttCYEpvw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=96.23944&pitch=0&thumbfov=100" alt="about image" width="300" height="300" >
+  <br>
+    <center> Detroit</center>
+
+  </td>
+<td width="200">
+  </td>
+  
+  <td>
+<img src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/165752616_192202072709585_2208602125839105262_n.jpg?_nc_cat=101&ccb=1-3&_nc_sid=ae9488&_nc_ohc=ir5KUXY36BcAX-TnhwQ&_nc_ht=scontent-ort2-1.xx&tp=7&oh=3459b7efd7225d0b481e24be297560e9&oe=60A7350B" alt="about image" width="300" height="300" >
+    <br>
+    <center>    West Bloomfield</center>
+  </td>
+  </tr>
+  </table>
+
+   
+   <table>
+<tr>
+  <td>
+<img src="https://www.elderoptionsoftexas.com/images/chef-cooking-with-senior-woman.jpg" alt="about image" width="200" height="200" >
+  
+  </td>
+  <td>
+    <h2 id="Services">Services</h2>
+ <div>  
+-Programs and activities for daily physical fitness; creative, social, learning and spiritual opportunities
+-Maintenance-free living, including housekeeping, trash removal and laundry
+-Trained staff available 24-hours a day
+-Monthly wellness visits by a licensed on-staff nurses and doctors.
+-Three delicious, well-balanced meals as well as snacks available throughout the day
+-Medication coordination
+-Social and educational programs for families
+-Transportation for apointments and errands
+-Physical and ocupational therapy
+  </div>
+
+  
+  </td>
+  </tr>
+  </table>  
+  
+  <h2 id="Careers">Careers</h2>
+   
+     We offer team members at all levels a chance to make a difference every day, in a uniquely supportive community, and ignite their potential.
+    Because of our small size, our employees need to be a jack of all trades..
+   <div>  
+     <u>Current Positions Available</u>
+   
+     <b># Personal Care Assistant</b> 
+     - Full Time
+
+     Personal Care Assistants help clients with everyday activities, from domestic tasks to completing errands. Other essential duties and responsibilities of the Caregiver include:
+
+-Serving as a companion to clients
+-Transporting clients to and from appointments, errands and activities
+-Managing medication
+-Preparing meals and shopping for groceries or other essentials
+  
+     <b># Consulting Doctors and Nurses </b>
+     - Part time consultations
+     We are looking for doctors and nurses
+     who can visit our residents for
+     checkups.
+     
+  </div>
+
+      <h2>To inquire about emploment, feel free to send e-mail to Foreveryoungseniorliving1@gmail.com, or complete the following form</h2>
+
+<form id="usrform" action="mailto:richard.g.engle@gmail.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail" ><br>
+Comments/Resume:<br>
+  <textarea class="res" rows="4" cols="50" name="comment" form="usrform">
+Enter text here...</textarea>
+  <input type="submit" value="Send">
+<input type="reset" value="Reset">
+
+  </form>
+
+  
+  
+  
+  
+  <h2 id="Locations">Locations</h2>
+    We have 2 locations to meet your needs.
+ <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=%20%20%203105%20Winchester%20Rd,%20West%20Bloomfield,%20MI%2048322%20%20&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://embedgooglemap.net/maps/49"></a><br><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}</style><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div></div>
+  3105 Winchester Rd<br>
+  West Bloomfield, MI
+  <br>
+   <div class="mapouter"><div class="gmap_canvas"><iframe width="300" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=17352%20Roselawn%20St,%20Detroit,%20MI%2048221&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://embedgooglemap.net/maps/49"></a><br><style>.mapouter{position:relative;text-align:right;height:300px;width:300px;}</style><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;}</style></div></div>
+  17352 Roselawn St<br>
+  Detroit, MI
+  <div
+  <u>Contact</u>
+Call or email us today
+313 454 6835
+
+    <a href="mailto:Foreveryoungseniorliving1@gmail.com">
+<i class="far fa-envelope"></i> Send email to Foreveryoungseniorliving1@gmail.com</a>  
+    
+ 
+ 
+  <a href="https://www.facebook.com/Forever-Young-Senior-Living-110704407764885/" target="_blank"><i class="fab fa-facebook"></i>Facebook</a>
+  
+  
+  
+  </div>
+  
+    </body>
+</html>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js" integrity="sha256-qM7QTJSlvtPSxVRjVWNM2OfTAz/3k5ovHOKmKXuYMO4=" crossorigin="anonymous"></script>
+
+    <p><a href="mailto:richard.g.engle@gmail.com">
+<i class="far fa-envelope"></i> Send email to web master richard.g.engle@gmail.com</a></p>  
